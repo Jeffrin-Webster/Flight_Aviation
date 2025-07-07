@@ -33,7 +33,7 @@ This project analyzes aviation accident data from the **National Transportation 
 ## 📂 Dataset
 
 **Title:** Aviation Accident Database & Synopses (Up to 2023)  
-**Source:** [Kaggle Dataset by Rashik Rahman](https://www.kaggle.com/datasets/rashikrahmanpritom/aviation-accident-database-synopses)  
+**Source:** [Kaggle Dataset by Rashik Rahman](https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses)  
 **Original Source:** National Transportation Safety Board (NTSB)  
 - Covers civil aviation accidents from **1962–2023**
 - Key Features:
