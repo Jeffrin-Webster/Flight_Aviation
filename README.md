@@ -70,13 +70,6 @@ This project analyzes aviation accident data from the **National Transportation 
 
 ---
 
-## 📸 Demo Snapshots
-
-> *(Insert screenshots of Tableau dashboards or plots here)*  
-> Example: `images/heatmap_fatal_injuries.png`
-
----
-
 ## ✅ How to Use
 
 1. Clone the repository  
