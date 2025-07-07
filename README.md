@@ -1,14 +1,14 @@
 # ✈️ Aviation Accident Data Analysis
 
 ### Enhancing Flight Safety Through Data-Driven Insights  
-_A Deep Dive into NTSB Aviation Accident Reports (1962–Present)_  
+_A Deep Dive into NTSB Aviation Accident Reports (1962–2023)_  
 📊 By [Jeffrin Webster](https://github.com/Jeffrin-Webster)
 
 ---
 
 ## 📁 Project Overview
 
-This project analyzes aviation accident data from the **National Transportation Safety Board (NTSB)** to uncover patterns, identify risk factors, and suggest safety improvements in the aviation industry. The dataset spans from **1962 to the present**, focusing on U.S. civil aviation incidents and select global events.
+This project analyzes aviation accident data from the **National Transportation Safety Board (NTSB)** to uncover patterns, identify risk factors, and suggest safety improvements in the aviation industry. The dataset spans from **1962 to 2023**, focusing on U.S. civil aviation incidents and select global events.
 
 ---
 
@@ -32,11 +32,13 @@ This project analyzes aviation accident data from the **National Transportation 
 
 ## 📂 Dataset
 
-**Source:** [NTSB Aviation Accident Database](https://www.ntsb.gov/)  
-- Covers: Civil aviation accidents from **1962 onwards**
+**Title:** Aviation Accident Database & Synopses (Up to 2023)  
+**Source:** [Kaggle Dataset by Rashik Rahman](https://www.kaggle.com/datasets/rashikrahmanpritom/aviation-accident-database-synopses)  
+**Original Source:** National Transportation Safety Board (NTSB)  
+- Covers civil aviation accidents from **1962–2023**
 - Key Features:
-  - Event ID, Aircraft Model, Weather Condition, Flight Purpose, Location
-  - Injury Severity, Phase of Flight, Aircraft Damage, etc.
+  - `EventId`, `AccidentNumber`, `Location`, `WeatherCondition`, `InjurySeverity`
+  - Aircraft damage, phase of flight, purpose of flight, etc.
 
 ---
 
